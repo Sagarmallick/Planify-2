@@ -633,3 +633,6 @@ ul {
     width:45px;
     margin: auto;
 }
+.form-subscribe .btn{
+    z-index:0;
+}
